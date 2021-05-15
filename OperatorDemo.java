@@ -1,0 +1,12 @@
+class OperatorDemo{
+public static void main(String[] args){
+int x=100;
+int y=200;
+System.out.println(x+y);
+System.out.println(y-x);
+System.out.println(x*y);
+System.out.println(y/x);
+System.out.println(x%y);
+}
+}
+
